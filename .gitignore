@@ -1,0 +1,5 @@
+.idea
+
+# Ignore Build Folder Except Distributions
+build/*
+!build/distributions
